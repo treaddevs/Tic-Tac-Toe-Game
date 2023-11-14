@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Two player Tic-Tac-Toe game
+Two-player Tic-Tac-Toe game
 
 Interactive gameplay allows users to input their selected move on the command line. 
 Players can place their 'X' or 'O' on the board by entering the coordinates of their play on the 3 by 3 Tic-Tac-Toe grid:
